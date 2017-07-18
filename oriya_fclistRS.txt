@@ -1,0 +1,13 @@
+/home/readingsystem/.fonts/fonts/Oriya/Lohit-Odia.ttf: Lohit Odia:style=Regular
+/home/readingsystem/.fonts/fonts/Oriya/lipikaar/Lohit-Oriya.ttf: Lohit Oriya:style=Regular
+/home/readingsystem/.fonts/fonts/Tamil/tamil2/SakalBharati Normal_Ship.ttf: SakalBharati:style=Normal
+/home/readingsystem/.fonts/fonts/Oriya/ODIA-OT-V2.TTF: Odia_OT_Jagannatha:style=Normal
+/home/readingsystem/.fonts/fonts/Oriya/OdiaOTJagannathaNormal.ttf: Odia_OT_Jagannatha:style=Normal
+/home/readingsystem/.fonts/fonts/Oriya/lipikaar/Samyak-Oriya.ttf: Samyak Oriya:style=Regular
+/home/readingsystem/.fonts/fonts/Oriya/lipikaar/utkal.ttf: ori1Uni,utkal:style=Medium
+/home/readingsystem/.fonts/fonts/Tamil/tamil2/OROTChilikaN_Ship.ttf: GIST\-OROTChilika:style=Normal
+/home/readingsystem/.fonts/fonts/Oriya/googleFonts/BalooBhaina-Regular.ttf: Baloo Bhaina:style=Regular
+/home/readingsystem/.fonts/fonts/Tamil/tamil2/GIST-OROTMukta.TTF: GIST\-OROTMukta:style=Normal
+/home/readingsystem/.fonts/fonts/Devanagari/hindietools/Nirmala.ttf: Nirmala UI:style=Regular,Normal,obyčejné,Standard,Κανονικά,Normaali,Normál,Normale,Standaard,Normalny,Обычный,Normálne,Navadno,Arrunta
+/home/readingsystem/.fonts/fonts/Devanagari/hindietools/SakalBharati Normal.ttf: SakalBharati:style=Normal
+/home/readingsystem/.fonts/fonts/Tamil/tamil2/OROTMuktaN_Ship.TTF: GIST\-OROTMukta:style=Normal

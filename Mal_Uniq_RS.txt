@@ -1,0 +1,53 @@
+ GIST\-MLOTMaya
+ ML\-NILA02_NewLipi
+ AnjaliOldLipi
+ GIST\-MLOTChippi
+ Karumbi
+ Samyak Malayalam
+ GIST\-MLOTSruthy
+ GIST\-MLOTBhanu
+ RaghuMalayalam
+ Meera
+ GIST\-MLOTMalavika
+ Kartika
+ ML\-NILA04_NewLipi
+ GIST\-MLOTAswathi
+ Hind Kochi
+ Keraleeyam
+ ML\-NILA06_NewLipi
+ JanaMalayalam
+ GIST\-MLOTKottakkal
+ Akshar Unicode
+ GIST\-MLOTIndulekha
+ GIST\-MLOTPeriyar
+ GIST\-MLOTMakam
+ SakalBharati
+ suruma
+ AnjaliNewLipi
+ ML\-NILA07_NewLipi
+ Nirmala UI
+ GIST\-MLOTKaumudi
+ Manjari
+ ML\-NILA06
+ ML\-NILA05
+ ML\-NILA04
+ ML\-NILA03
+ ML\-NILA02
+ ML\-NILA01
+ ThoolikaTraditionalUnicode
+ Chilanka
+ ML\-NILA03_NewLipi
+ GIST\-MLOTAshtamudi
+ ML\-NILA01_NewLipi
+ Suruma
+ Rachana
+ Uroob
+ Lohit Malayalam
+ GIST\-MLOTAmbili
+ ML\-NILA05_NewLipi
+ GIST\-MLOTKalindi
+ GIST\-MLOTPayippad
+ ML\-NILA07
+ GIST\-MLOTMridula
+ Baloo Chettan
+ GIST\-MLOTSabari
