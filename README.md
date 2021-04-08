@@ -45,5 +45,5 @@ The rendering parameters, alpha blending setting  and   of foreground and backhr
 
 
 ## Disclaimer
-The font  collection was compiled for a reserach project. No commercial interests involved
-Copyrights of the fonts is with the   original developers of the fonts. The collection is uploaded here  with the sole purpose to be used for research in OCR of Indian scripts and Arabic.  By downloading any of the fonts   you explicitly state that your final purpose is to perform non-commercial research in the conditions mentioned above and you agree to comply with these terms and conditions. For any other uses we request you to get explicit permission from the font developer.
+The font  collection was compiled for a reserach project. No commercial interests involved.
+Copyrights of the fonts is with the original developers of the fonts. The fonts are uploaded here with the sole purpose of helping researchers to generate synthetic data to train OCRs in Indian scripts. By downloading any of the fonts   you explicitly state that your final purpose is to perform non-commercial research in the conditions mentioned above and you agree to comply with these terms and conditions. For any other uses we request you to get explicit permission from the font developer.
