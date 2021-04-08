@@ -17,6 +17,7 @@ Please cite the following work if you use the rendering script.
   year={2017}}
 
 ```
+We used the same script for our work on Arabic Scene text recognition, titled [Unconstrained scene text and video text recognition for arabic script](https://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition)
 ## Fonts
 Fonts need to be installed  on the machine where you render the images. Easiest option is to copy fonts to .fonts directory in your home directory and then run `fc-cache` command from terminal.
 Rendering using Pango + IM , require that a font is  installed.
