@@ -9,7 +9,7 @@ We encourate you to use this script for non Latin scripts where you want to use 
 
 
 ![Sample Synthetic Images rendered using the script given here](https://github.com/mineshmathew/SyntheticWordImagesGenerationIndianScripts/blob/master/IL_synth.png?raw=true)
-
+Shown above is a few sample word images we rendered for our work using the rendering script.
 
 Please cite the following work if you use the rendering script.
 
