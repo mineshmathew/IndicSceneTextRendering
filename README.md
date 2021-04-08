@@ -37,7 +37,7 @@ Font lists we created using `fc-list` command are given inside the fontlists dir
 
 ## Rendering Script
 
-The rendering script takes command line arguments (see the script)
+`render_Indian_language_scenetext.py` takes command line arguments (see the script)
 Make sure you have Pango, Cairo , PangoCairo and Imagemagick Installed in your Unix machine
 For a good introduction on using Pango with IM for rendering text as images please refer to this  [manual](https://legacy.imagemagick.org/Usage/text/#pango)
 While rendering we use crops of random natural images as background images of the rendered word images. We used images from Places Dataset. You are free to use images of your choice.
