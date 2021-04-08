@@ -28,7 +28,7 @@ We used the same script for our work on Arabic Scene text recognition, titled [U
 ## Fonts
 Fonts need to be installed  on the machine where you render the images. Easiest option is to copy fonts to .fonts directory in your home directory and then run `fc-cache` command from terminal.
 Rendering using Pango + IM , require that a font is  installed.
-Wee use Pango since none of the tools/libraries which we tried out  back then could render Indian scripts correctly. The ordering of Unicodes were getting messed up with other libraries
+Wee use Pango since none of the tools/libraries which we tried out  back then could render Indian scripts correctly. The ordering of Unicodes were getting messed up with other libraries.<br>
 
 
 Use `fc-list` command in Unix to get the font list and the fontnames in this list must be the ones you use with the rendering script
@@ -38,10 +38,10 @@ Font lists we created using `fc-list` command are given inside the fontlists dir
 ## Rendering Script
 
 `render_Indian_language_scenetext.py` takes command line arguments (see the script)
-Make sure you have Pango, Cairo , PangoCairo and Imagemagick Installed in your Unix machine
+Make sure you have Pango, Cairo , PangoCairo and Imagemagick Installed in your Unix machine.
 For a good introduction on using Pango with IM for rendering text as images please refer to this  [manual](https://legacy.imagemagick.org/Usage/text/#pango)
 While rendering we use crops of random natural images as background images of the rendered word images. We used images from Places Dataset. You are free to use images of your choice.
-The rendering paramters, Alpha blending setting  and  choice of foreground and backhround colors are set so that resutlant images are mostly legible. These settings need not be the best to obtain the most diverse set of images which closely match with the real scene text images. We request the users to review these settings before rendering images for your task.
+The rendering parameters, alpha blending setting  and   of foreground and backhround colors are set so that resutlant images are mostly legible. We dont guarantee that these settings are the best to obtain the most diverse set of images which closely match with the real scene text images. We request the users to review these settings before rendering images for your task.
 
 
 ## Disclaimer
