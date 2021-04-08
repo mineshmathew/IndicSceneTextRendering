@@ -8,7 +8,7 @@ Better not to use the rendering script in this repo for rendering English/Latin.
 We encourate you to use this script for non Latin scripts where you want to use Unicode fonts and especially in cases where you have difficulty rendeirng Unicode text correctly while using commonly used libraries for font rendering.
 
 
-![Sample Synthetic Images rendered using the script given here](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Sample Synthetic Images rendered using the script given here](https://github.com/mineshmathew/SyntheticWordImagesGenerationIndianScripts/blob/master/IL_synth.png?raw=true)
 
 
 Please cite the following work if you use the rendering script.
