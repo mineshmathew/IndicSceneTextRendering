@@ -3,7 +3,13 @@ This repo  provides a script we used to generate scene text style synthetic word
 Along with the rendering script we also provide, a collection of fonts we compiled for the project.
 Better not to use the rendering script in this repo for rendering English/Latin. The python script invokes bash commands (using *os.system()*) which is generally not recommended and there are multiple Disk I/O operations which makes the rendering slow. We had to render in this way since rendering with common tools/libraries resulted in incorrect ordering of certain Unicode glyphs in Indian Scripts.
 
+
+
 We encourate you to use this script for non Latin scripts where you want to use Unicode fonts and especially in cases where you have difficulty rendeirng Unicode text correctly while using commonly used libraries for font rendering.
+
+
+![Sample Synthetic Images rendered using the script given here](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
 Please cite the following work if you use the rendering script.
 
