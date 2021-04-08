@@ -44,6 +44,6 @@ While rendering we use crops of random natural images as background images of th
 The rendering paramters, Alpha blending setting  and  choice of foreground and backhround colors are set so that resutlant images are mostly legible. These settings need not be the best to obtain the most diverse set of images which closely match with the real scene text images. We request the users to review these settings before rendering images for your task.
 
 
-## Discalimer
+## Disclaimer
 The font  collection was compiled for a reserach project. No commercial interests involved
 Copyrights of the fonts is with the   original developers of the fonts. Please check if the font is free to use if you want to use it
