@@ -46,4 +46,4 @@ The rendering paramters, Alpha blending setting  and  choice of foreground and b
 
 ## Disclaimer
 The font  collection was compiled for a reserach project. No commercial interests involved
-Copyrights of the fonts is with the   original developers of the fonts. Please check if the font is free to use if you want to use it
+Copyrights of the fonts is with the   original developers of the fonts. The collection is uploaded here  with the sole purpose to be used for research in OCR of Indian scripts and Arabic.  By downloading any of the fonts   you explicitly state that your final purpose is to perform non-commercial research in the conditions mentioned above and you agree to comply with these terms and conditions. For any other uses we request you to get explicit permission from the font developer.
